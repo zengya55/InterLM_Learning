@@ -2,19 +2,19 @@
 
 ## 生成300字小游戏
 
-![对话](../lesson2智能对话/对话.png)
+![对话](../images/lesson2/对话.png)
 
 ## huggingface 模型下载
 
 下载代码
 
-![下载代码](../lesson2/下载代码.png)
+![下载代码](../images/lesson2/下载代码.png)
 
 
 
 下载成功
 
-![下载成功](../lesson2/下载成功.png)
+![下载成功](../images/lesson2/下载成功.png)
 
 
 
@@ -22,7 +22,7 @@
 
 openxlab下载失败
 
-![openxlab问题](../lesson2/openxlab问题.png)
+![openxlab问题](../images/lesson2/openxlab问题.png)
 
 
 
@@ -49,12 +49,12 @@ fi
 
 ## 图文理解
 
-![图文理解1](../lesson2/图文理解1.png)
+![图文理解1](../images/lesson2/图文理解1.png)
 
-![图文理解2](../lesson2/图文理解2.png)
+![图文理解2](../images/lesson2/图文理解2.png)
 
 
 
 ## Lagent
 
-![Lagent](../lesson2/Lagent.png)
+![Lagent](../images/lesson2/Lagent.png)
